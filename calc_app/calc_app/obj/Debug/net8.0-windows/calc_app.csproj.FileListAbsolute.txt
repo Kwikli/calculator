@@ -1,0 +1,17 @@
+C:\Users\kwikl\source\repos\calc_app\calc_app\bin\Debug\net8.0-windows\calc_app.exe
+C:\Users\kwikl\source\repos\calc_app\calc_app\bin\Debug\net8.0-windows\calc_app.deps.json
+C:\Users\kwikl\source\repos\calc_app\calc_app\bin\Debug\net8.0-windows\calc_app.runtimeconfig.json
+C:\Users\kwikl\source\repos\calc_app\calc_app\bin\Debug\net8.0-windows\calc_app.dll
+C:\Users\kwikl\source\repos\calc_app\calc_app\bin\Debug\net8.0-windows\calc_app.pdb
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.Form1.resources
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.csproj.GenerateResource.cache
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.AssemblyInfoInputs.cache
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.AssemblyInfo.cs
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.csproj.CoreCompileInputs.cache
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.dll
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\refint\calc_app.dll
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.pdb
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.genruntimeconfig.cache
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\ref\calc_app.dll
+C:\Users\kwikl\source\repos\calc_app\calc_app\obj\Debug\net8.0-windows\calc_app.Properties.Resources.resources
